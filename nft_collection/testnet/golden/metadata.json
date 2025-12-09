@@ -1,7 +1,7 @@
 {
     "name": "Golden warrior",
     "description": "You are among the most successful traders of Cede Hub",
-    "image": "https://raw.githubusercontent.com/TheoMaillardCedeLabs/public_files/refs/heads/main/nft_collection/testnet/golden/image.png",
+    "image": "https://raw.githubusercontent.com/TheoMaillardCedeLabs/public_files/main/nft_collection/testnet/golden/image.png",
     "attributes": [
         {
             "trait_type": "type",
