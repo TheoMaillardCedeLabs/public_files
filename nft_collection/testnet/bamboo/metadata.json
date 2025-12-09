@@ -1,0 +1,11 @@
+{
+    "name": "Bamboo warrior",
+    "description": "You are among the top traders of Cede Hub",
+    "image": "https://github.com/TheoMaillardCedeLabs/public_files/main/nft_collection/testnet/bamboo/image.png",
+    "attributes": [
+        {
+            "trait_type": "type",
+            "value": "bamboo"
+        }
+    ]
+}

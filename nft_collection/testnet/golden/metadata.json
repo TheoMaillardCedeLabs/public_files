@@ -1,0 +1,11 @@
+{
+    "name": "Golden warrior",
+    "description": "You are among the most successful traders of Cede Hub",
+    "image": "https://github.com/TheoMaillardCedeLabs/public_files/main/nft_collection/testnet/golden/image.png",
+    "attributes": [
+        {
+            "trait_type": "type",
+            "value": "gold"
+        }
+    ]
+}
