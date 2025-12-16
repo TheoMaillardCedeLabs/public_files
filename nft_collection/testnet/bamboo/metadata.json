@@ -7,5 +7,6 @@
             "trait_type": "type",
             "value": "bamboo"
         }
-    ]
+    ],
+    "questRewardMultiplier": 5
 }
