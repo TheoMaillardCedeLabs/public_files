@@ -1,0 +1,16 @@
+{
+    "name": "Bamboo Key",
+    "description": "The Bamboo Key unlocks enhanced rewards and priority access. Enjoy 5x Cede Hub quest rewards, second-priority entry to all exclusive campaigns (just below the Golden Key), and an exclusive daily check-in quest granting 2 Lucky Spins every day.",
+    "image": "https://cdn.cedelabs.io/nft-collection/images/bamboo-key.jpg",
+    "attributes": [
+        {
+            "trait_type": "type",
+            "value": "bamboo"
+        },
+        {
+            "trait_type": "quest_reward_multiplier",
+            "value": 5
+        }
+    ],
+    "questRewardMultiplier": 5
+}

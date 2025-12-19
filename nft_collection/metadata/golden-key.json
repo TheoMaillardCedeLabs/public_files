@@ -1,0 +1,16 @@
+{
+    "name": "Golden Key",
+    "description": "The Golden Key unlocks enhanced rewards and priority access. Enjoy 10x Cede Hub quest rewards, first-priority entry to all exclusive campaigns, and an exclusive daily check-in quest granting 5 Lucky Spins every day.",
+    "image": "https://cdn.cedelabs.io/nft-collection/images/golden-key.jpg",
+    "attributes": [
+        {
+            "trait_type": "type",
+            "value": "gold"
+        },
+        {
+            "trait_type": "quest_reward_multiplier",
+            "value": 10
+        }
+    ],
+    "questRewardMultiplier": 10
+}
